@@ -11,7 +11,7 @@ QuickURL is a minimalist URL shortening service that allows users to create shor
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS
+
 - **Backend**: Node.js, Express.js, MongoDB
 - **Database**: MongoDB (for storing URL data)
 
